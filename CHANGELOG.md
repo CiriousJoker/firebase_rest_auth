@@ -1,3 +1,6 @@
+## 0.3.1
+* Fix: Upgraded okhttp3 for Android 11 compatibility
+
 ## 0.3.0
 * New Basic functionality:
     * `signInWithEmailAndPassword({@required String email, @required String password})`
